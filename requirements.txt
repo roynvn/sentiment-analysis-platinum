@@ -1,0 +1,11 @@
+streamlit
+pandas
+pip install -U scikit-learn
+pip install multiapp 
+pip install unidecode
+pip install nltk
+
+
+
+need concer:
+jangan lupa pip uninstall yfinance
