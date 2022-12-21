@@ -1,0 +1,13 @@
+streamlit
+pandas
+pip install -U scikit-learn
+pip install multiapp 
+pip install unidecode
+pip install nltk
+pip install flask
+pip install pad_sequences
+pip install tensorflow
+pip install db-sqlite3
+
+need concer:
+jangan lupa pip uninstall yfinance
